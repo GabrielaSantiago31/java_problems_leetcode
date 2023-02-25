@@ -1,6 +1,7 @@
 # java_problems_leetcode
 Solved problems from leetcode website
 
+###status: In progress
 
 ###Tecnologias
 
