@@ -1,7 +1,7 @@
 # java_problems_leetcode
 Solved problems from leetcode website
 
-[https://leetcode.com]
+https://leetcode.com
 
 ###Status: 
 
